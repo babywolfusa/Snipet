@@ -1,0 +1,3 @@
+com/crayondata/hbase/MapReduce/SearchByEmail.class
+com/crayondata/hbase/MapReduce/DeleteTable.class
+com/crayondata/hbase/MapReduce/CreateTable.class
